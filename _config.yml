@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shuhao Yan"
-description              : " "
+description              : ""
 repository               : ""
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Shuhao Yan"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/1-1.png"
   bio              : "Sichuan University"
   location         : "Chengdu, China"
   employer         :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com//XLearning-SCU"
+  github           : "XLearning-SCU"
   google_plus      :
   keybase          :
   instagram        :
